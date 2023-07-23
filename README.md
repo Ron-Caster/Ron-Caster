@@ -1,20 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hari Prezadu</h1>
+<h3 align="center">A Computer Vision aspirant from India</h3>
 
-<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> </p>
 
-https://github.com/Ron-Caster/Ron-Caster/assets/56224323/d7bb1621-31a1-4455-8dc6-33673474d992
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ron-caster" alt="ron-caster" /></a> </p>
 
+- 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
 
-**Ron-Caster/Ron-Caster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Machine Learning, Kotlin**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Python, OpenCV and MediaPipe**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **hprsd21@gmail.com**
+
+- ⚡ Fun fact **I don't use AI extensively :D**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/roncaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roncaster" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hariprezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariprezadu" height="30" width="40" /></a>
+<a href="https://instagram.com/@ronco.dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronco.dm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hari prezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hari prezadu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ron-caster&show_icons=true&locale=en&layout=compact" alt="ron-caster" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ron-caster&show_icons=true&locale=en" alt="ron-caster" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ron-caster&" alt="ron-caster" /></p>
+
