@@ -4,7 +4,7 @@
   
 ![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ron-caster" alt="ron-caster" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ron-caster" alt="ron-caster" /></a> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
 
