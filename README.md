@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
 
 <p align="center">
-  <img src="![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)"/>
+  <img src="![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)"
 </p>
 
 - 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
