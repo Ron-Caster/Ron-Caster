@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hari Prezadu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> </p> <h3 align="center">A Computer Vision aspirant from India</h3>
-
-<p align="center"> ![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)
+</p> <h3 align="center">A Computer Vision aspirant from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
+  
+<p align="center"> <![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ron-caster" alt="ron-caster" /></a> </p>
 
