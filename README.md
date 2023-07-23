@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Prezadu</h1>
 <h3 align="center">A Computer Vision aspirant from India</h3>
 
-https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif
+![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/084b5661-2a50-4bdc-a616-dc95e574cf12)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> </p>
 
