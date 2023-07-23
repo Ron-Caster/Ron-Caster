@@ -2,7 +2,9 @@
 </p> <h3 align="center">A Computer Vision aspirant from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
 
-![giphy](https://github.com/Ron-Caster/Ron-Caster/assets/56224323/1b2db1e4-b64b-4090-a31e-b48c0118f76b)
+<p align="center">
+<img alt="Readme gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
+</p>
 
 - 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
 
