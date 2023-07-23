@@ -6,6 +6,8 @@
 <img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/giphy.gif" width="90%" />
 </p>
 
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
 - 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
 
 - 🌱 I’m currently learning **Machine Learning, Kotlin**
