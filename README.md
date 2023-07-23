@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
 
 <p align="center">
-<img alt="Readme gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
+<img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/giphy.gif" width="90%" />
 </p>
 
 - 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
