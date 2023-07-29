@@ -3,10 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
 
 <p align="center">
-<img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/giphy.gif" width="90%" />
+<img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
 </p>
-
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - 🔭 I’m currently working on [Axis Bank's Bankathon](https://github.com/users/Ron-Caster/projects/2)
 
