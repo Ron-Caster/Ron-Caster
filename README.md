@@ -8,7 +8,7 @@
 
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-- 🔭 I’m currently working on [Desktop AI Assistant](https://github.com/Ron-Caster/Yosist)
+- 🔭 I’m currently working on [Axis Bank's Bankathon](https://github.com/users/Ron-Caster/projects/2)
 
 - 🌱 I’m currently learning **Machine Learning, Kotlin**
 
