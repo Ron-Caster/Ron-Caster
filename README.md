@@ -6,7 +6,7 @@
 <img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
 </p>
 
-- 🔭 I’m currently working on [Bill Extraction Tool Development](https://github.com/users/Ron-Caster/BillWVF)
+- 🔭 I’m currently working on [Bill Extraction Tool Development](https://github.com/Ron-Caster/BillWVF)
 
 - 🌱 I’m currently learning **Machine Learning, Kotlin**
 
