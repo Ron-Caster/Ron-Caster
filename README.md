@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bill Extraction Tool Development 🔐](https://github.com/Ron-Caster/BillWVF)
 
-- 🌱 I’m currently learning **Machine Learning, Kotlin**
+- 🌱 I’m currently learning ** To Train LLMs for Custom Output**
 
 - 💬 Ask me about **Python, OpenCV and MediaPipe**
 
