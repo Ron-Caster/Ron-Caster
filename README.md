@@ -6,7 +6,7 @@
 <img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
 </p>
 
-- 🔭 I’m currently working on [Project Y]([https://github.com/Ron-Caster/PythonSolo](https://github.com/users/Ron-Caster/projects/3))
+- 🔭 I’m currently working on [Project Y]([https://github.com/users/Ron-Caster/projects/3])
 
 - 🌱 I’m currently learning **To Train LLMs for Custom Output**
 
