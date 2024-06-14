@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Project Y](https://github.com/users/Ron-Caster/projects/3)
 
-- 🌱 I’m currently learning **To Train LLMs for Custom Output**
+- 🌱 I’m currently learning **Function Calling in Large Language Models**
 
 - 💬 Ask me about **Python, OpenCV and MediaPipe**
 
