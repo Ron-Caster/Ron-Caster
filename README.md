@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hprsd21@gmail.com**
 
-- ⚡ Fun fact **I don't use AI extensively (No Pun Intended)**
+- ⚡ Fun fact **I am addicted to "git push"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
