@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Function Calling in Large Language Models**
 
-- 💬 Ask me about **Python, OpenCV and MediaPipe**
+- 💬 Ask me about **Python, Computer Vision and Large Language Models**
 
 - 📫 How to reach me **hprsd21@gmail.com**
 
