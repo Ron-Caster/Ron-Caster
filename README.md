@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Project Y](https://github.com/users/Ron-Caster/projects/3)
 
-- 🌱 I’m currently learning **Function Calling in Large Language Models**
+- 🌱 I’m currently developing **AI Assistant For Windows 11**
 
 - 💬 Ask me about **Python, Computer Vision and Large Language Models**
 
