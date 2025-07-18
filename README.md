@@ -6,9 +6,7 @@
 <img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
 </p>
 
-- 🔭 I’m currently working on [Project Y](https://github.com/users/Ron-Caster/projects/3)
-
-- 🌱 I’m currently developing **AI Assistant For Windows 11**
+- 🌱 I’m currently developing a **[3D Multiplayer Game](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
 
 - 💬 Ask me about **Python, Computer Vision and Large Language Models**
 
