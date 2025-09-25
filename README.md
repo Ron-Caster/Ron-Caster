@@ -1,33 +1,78 @@
 <h1 align="center">Hi 👋, I'm Hari Prezadu</h1>
-</p> <h3 align="center">A Computer Vision aspirant from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> 
 
+<!-- Typing SVG for dynamic intro -->
 <p align="center">
-<img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+AI+for+the+future;Addicted+to+git+push;Exploring+3D+worlds" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- Visitor counter -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ron-caster&label=Profile%20views&color=0e75b6&style=flat" alt="ron-caster" /> </p>
+
+<!-- Banner GIF -->
+<p align="center">
+  <img alt="Readme gif" src="https://github.com/Ron-Caster/Ron-Caster/blob/main/ezgif-4-aa7f1fc0a3.gif" width="90%" />
+</p>
+
+<!-- Current project with collapsible details -->
 
 - 🌱 I’m currently developing a **[3D Multiplayer Game](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
 
 - 💬 Ask me about **Python, Computer Vision and Large Language Models**
 
-- 📫 How to reach me **hprsd21@gmail.com**
+- 📫 Reach me out at: **hprsd21@gmail.com**
 
 - ⚡ Fun fact **I am addicted to "git push"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/roncaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roncaster" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hariprezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariprezadu" height="30" width="40" /></a>
-<a href="https://instagram.com/ronco.dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronco.dm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hari prezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hari prezadu" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/hariprezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariprezadu" height="30" width="40" /></a>
+  <a href="https://instagram.com/ronco.dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronco.dm" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/hari prezadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hari prezadu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ron-caster&show_icons=true&locale=en&layout=compact" alt="ron-caster" /></p>
+<!-- Language Pie Chart -->
+<h3 align="center">Top Languages Breakdown</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron-caster&layout=pie&langs_count=8&theme=radical" alt="Languages Pie" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ron-caster&show_icons=true&locale=en" alt="ron-caster" /></p>
+<!-- Stats Section -->
+<h3 align="center">GitHub Stats & Achievements</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ron-caster&show_icons=true&locale=en" alt="ron-caster" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron-caster&" alt="ron-caster" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ron-caster&" alt="ron-caster" /></p>
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ron-caster&theme=onedark&no-frame=true&margin-w=2" alt="Trophies" />
+</p>
 
+<!-- Random Joke for Fun -->
+<h3 align="center">🤖 Random Dev Joke</h3>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<!-- Latest Blog Posts (configure with GitHub Actions for auto-update) -->
+<h3 align="center">📝 Latest Blog Posts</h3>
+<!-- Add your blog feed here via Actions; example placeholder -->
+<ul>
+  <li><a href="your-blog-post-url">Post Title 1</a> - Brief description</li>
+  <li><a href="your-blog-post-url">Post Title 2</a> - Brief description</li>
+</ul>
