@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hari Prezadu [Are you unemployed? Got time to read this?!]</h1>
+<h1 align="center"> Hi 👋, I'm Hari Prezadu </h1>
+<h2 align="center"> Are you unemployed? Got time to read this?! </h2>
 
 <!-- Typing SVG for dynamic intro -->
 <p align="center">
