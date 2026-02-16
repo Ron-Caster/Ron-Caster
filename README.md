@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently developing a **[Being Happy With my Life, Not Busy Convincing Anything to Anyone :)](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
 
-- 💬 Ask me about **Python, Computer Vision and Large Language Models** //That was 2 years ago before AI slop - now say... Agentic AI
+- 💬 Ask me about **Python, Computer Vision and LLM** //That was 2 years ago before AI slop - now say... Agentic AI
 
 - 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that email cos of spam: founder@brethern.tech
 
