@@ -75,5 +75,5 @@
 <!-- Add your blog feed here via Actions; example placeholder -->
 <ul>
   <li><a href="your-blog-post-url">Why Are You Unemployed?</a> - Don't know? Stay unemployed then   XD</li>
-  <li><a href="your-blog-post-url">Why Are You Emploed?</a> - Have you seen the beauty of morning sun rising... I get up at 11AM :)</li>
+  <li><a href="your-blog-post-url">Why Are You Employed?</a> - Have you seen the beauty of morning sun rising... I get up at 11AM :)</li>
 </ul>
