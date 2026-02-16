@@ -24,7 +24,7 @@
 
 - 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that email cos of spam: founder@brethern.tech
 
-- ⚡ Fun fact **I am addicted to "git push"**  //Why use that 
+- ⚡ Fun fact **I am addicted to "git push"**  //Why use that even? Press Ctrl+Shift+G in VSCode
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
