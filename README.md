@@ -18,7 +18,7 @@
 
 <!-- Current project with collapsible details -->
 
-- 🌱 I’m currently developing a **[Being Happy With my Life, Not Busy Convincing Anything to Anyone :)](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
+- 🌱 I’m currently developing a **[Habit of Being Happy With my Life, Not Busy Convincing Anything to Anyone :)](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
 
 - 💬 Ask me about **Python, Computer Vision and LLM** //That was 2 years ago before AI slop - now say... Agentic AI
 
