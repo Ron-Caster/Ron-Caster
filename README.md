@@ -74,6 +74,6 @@
 <h3 align="center">📝 Latest Blog Posts</h3>
 <!-- Add your blog feed here via Actions; example placeholder -->
 <ul>
-  <li><a href="your-blog-post-url">Post Title 1</a> - Brief description</li>
-  <li><a href="your-blog-post-url">Post Title 2</a> - Brief description</li>
+  <li><a href="your-blog-post-url">Why Are You Unemployed?</a> - Don't know? Stay Unemployed XD</li>
+  <li><a href="your-blog-post-url">Why Are You Emploed?</a> - Have you seen the beauty of morning sun rising... I get up at 11AM :)</li>
 </ul>
