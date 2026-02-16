@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Hari Prezadu </h1>
-<h2 align="center"> Are you unemployed? Got time to read this?! </h2>
+<h2 align="center"> //Are you unemployed? Got time to read this?! </h2>
 
 <!-- Typing SVG for dynamic intro -->
 <p align="center">
@@ -20,11 +20,11 @@
 
 - 🌱 I’m currently developing a **[Being Happy With my Life, Not Busy Convincing Anything to Anyone :)](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
 
-- 💬 Ask me about **Python, Computer Vision and Large Language Models**
+- 💬 Ask me about **Python, Computer Vision and Large Language Models** //That was 2 years ago before AI slop - now say... Agentic AI
 
-- 📫 Reach me out at: **hprsd21@gmail.com**
+- 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that email cos of spam: founder@brethern.tech
 
-- ⚡ Fun fact **I am addicted to "git push"**
+- ⚡ Fun fact **I am addicted to "git push"**  //Why use that 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
