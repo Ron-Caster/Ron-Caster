@@ -74,6 +74,6 @@
 <h3 align="center">📝 Latest Blog Posts</h3>
 <!-- Add your blog feed here via Actions; example placeholder -->
 <ul>
-  <li><a href="your-blog-post-url">Why Are You Unemployed?</a> - Don't know? Stay unemployed then   XD</li>
-  <li><a href="your-blog-post-url">Why Are You Employed?</a> - Have you seen the beauty of morning sun rising... I get up at 11AM :)</li>
+  <li><a href="your-blog-post-url">Why Are You Unemployed?</a> - Don't know? That's why you are...   XD</li>
+  <li><a href="your-blog-post-url">Why Are You Employed?</a> - Have you seen the beauty of the morning sun rising... I get up at 11AM :)</li>
 </ul>
