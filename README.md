@@ -47,11 +47,3 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-
-<!-- Latest Blog Posts (configure with GitHub Actions for auto-update) -->
-<h3 align="center">📝 Latest Blog Posts</h3>
-<!-- Add your blog feed here via Actions; example placeholder -->
-<ul>
-  <li><a href="your-blog-post-url">Why Are You Unemployed?</a> - Don't know? That's why you are...   XD</li>
-  <li><a href="your-blog-post-url">Why Are You Employed?</a> - Have you seen the beauty of the morning sun rising up... I get up at 11AM :)</li>
-</ul>
