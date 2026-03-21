@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Hari Prezadu </h1>
-<h2 align="center"> //Are you unemployed? Got time to read this?! </h2>
+<h2 align="center"> //Got time to read this?! </h2>
 <h3 align="center"> My GitHub Repos are the single source of truth to my thoughts and ideas as templates to build something in the future when I need it... </h3>
 
 <!-- Typing SVG for dynamic intro -->
