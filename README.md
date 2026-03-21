@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Python, Computer Vision and LLM** //That was 2 years ago before AI slop - now say... Agentic AI
 
-- 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that email cos of spam: founder@brethern.tech
+- 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that cos of spam
 
 - ⚡ Fun fact **I am addicted to "git push"**  //Why use that even? Press Ctrl+Shift+G in VSCode
 
