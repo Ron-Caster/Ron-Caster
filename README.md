@@ -34,10 +34,7 @@
 </p>
 
 <!-- Stats Section -->
-<h3 align="center">GitHub Stats & Achievements</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ron-caster&show_icons=true&locale=en" alt="ron-caster" />
-</p>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron-caster&" alt="ron-caster" />
 </p>
