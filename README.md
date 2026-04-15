@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Hari Prezadu </h1>
 <h2 align="center"> Got time to read this?! </h2>
-<h3 align="center"> My GitHub Repos are the single source of truth to my thoughts and ideas as templates to build something in the future when I need it... </h3>
+<h3 align="center"> My GitHub Repos are the single source of truth to my thoughts and ideas as templates to build something in the future as I require... </h3>
 
 <!-- Typing SVG for dynamic intro -->
 <p align="center">
@@ -19,13 +19,13 @@
 
 <!-- Current project with collapsible details -->
 
-- 🌱 I’m currently developing a **[Habit of Being Happy With my Life, Not Busy Convincing Anything to Anyone :)](https://github.com/Ron-Caster/3D-Multiplayer-Game)**
+- 🌱 I’m currently developing a **[A 3rd Variation of my Personal AI Assistant :)](https://github.com/Ron-Caster/Agentik-Bakery)**
 
-- 💬 Ask me about **Python, Computer Vision and LLM** //That was 2 years ago before AI slop - now say... Agentic AI
+- 💬 Ask me about **Python, Computer Vision and LLM**
 
-- 📫 Reach me out at: **hprsd21@gmail.com** //I don't even check that cos of spam
-
-- ⚡ Fun fact **I am addicted to "git push"**  //Why use that even? Press Ctrl+Shift+G in VSCode
+- 📫 Reach me out at: **hprsd21@gmail.com**
+  
+- ⚡ Fun fact **I am addicted to "git push"**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
